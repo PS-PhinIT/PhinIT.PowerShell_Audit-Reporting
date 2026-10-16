@@ -1,0 +1,8 @@
+# Laufzeitdateien (Logs, versehentliche Umleitungen nach "null")
+/Logs
+*.log
+null
+
+# Kompilierte Programme und Archive werden nicht versioniert (Versionen siehe CHANGELOG.md)
+*.exe
+*.zip
