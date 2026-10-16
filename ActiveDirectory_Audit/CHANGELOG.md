@@ -3,12 +3,6 @@
 Alle nennenswerten Änderungen an `ActiveDirectory_Audit.ps1` werden in dieser Datei dokumentiert.
 Format angelehnt an [Keep a Changelog](https://keepachangelog.com/de/1.1.0/), Versionierung nach [SemVer](https://semver.org/lang/de/).
 
-> **Hinweis zur Herkunft:** Ab 0.6.5 entspricht jeder Eintrag einem Pull Request (siehe Verweis unter der Version).
-> Bis zum Import-Commit (19.01.2026) gab es keine Pull Requests – die Einträge bis 0.6.4 wurden daher aus den früher im Ordner
-> `# Versions` / `# Beta` abgelegten Skriptständen (Vergleich der enthaltenen Funktionen, Header- und GUI-Versionsangaben) sowie der
-> bisherigen Versionshistorie in der README rekonstruiert. Das Datum stammt aus dem jeweiligen Skriptstand („Last Update“);
-> war dort keines hinterlegt, ist der Zeitraum über die nächste datierte Version eingegrenzt (z. B. „vor 01.07.2025“).
-
 ## [0.6.9] – 15.10.2026
 
 ### Behoben
